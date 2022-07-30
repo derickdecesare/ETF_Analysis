@@ -28,7 +28,7 @@ Upon launching the etf_analyzer.ipynb run each cell sequentially, ensuring to im
 
 ### Plot Daily and Cumulative Returns of PYPL
 
-Your graph should look like these.
+Your graphs should look like these.
 
 ![Daily Returns GRAPH](Images/daily.png)
 ![CUmulative Returns GRAPH](Images/cumulative.png)
